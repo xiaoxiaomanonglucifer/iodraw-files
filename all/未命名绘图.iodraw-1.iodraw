@@ -7,6 +7,9 @@
         <mxCell id="YJ9esxTmyBfDtOz5PgMZ-1" value="1972(电影开始)&lt;div&gt;老奶奶给男主怀表，让男主回到1912年见她(go back to me)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YJ9esxTmyBfDtOz5PgMZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
