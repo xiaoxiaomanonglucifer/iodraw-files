@@ -16,6 +16,9 @@
         <mxCell id="YJ9esxTmyBfDtOz5PgMZ-3" value="男主穿越回到1912年，和年轻的老奶奶相爱，但是由于那枚硬币，男主回到了1980年" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="100" width="150" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="YJ9esxTmyBfDtOz5PgMZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YJ9esxTmyBfDtOz5PgMZ-3" target="YJ9esxTmyBfDtOz5PgMZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
