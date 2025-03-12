@@ -19,6 +19,9 @@
         <mxCell id="Q-mmcuPftcuzNyCDe-1s-3" value="simulation step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q-mmcuPftcuzNyCDe-1s-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-mmcuPftcuzNyCDe-1s-5" target="Q-mmcuPftcuzNyCDe-1s-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q-mmcuPftcuzNyCDe-1s-5" value="simulation step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -28,8 +31,14 @@
         <mxCell id="Q-mmcuPftcuzNyCDe-1s-7" value="simulation step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q-mmcuPftcuzNyCDe-1s-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q-mmcuPftcuzNyCDe-1s-8" target="Q-mmcuPftcuzNyCDe-1s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q-mmcuPftcuzNyCDe-1s-8" value="simulation step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-mmcuPftcuzNyCDe-1s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q-mmcuPftcuzNyCDe-1s-7" target="Q-mmcuPftcuzNyCDe-1s-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
