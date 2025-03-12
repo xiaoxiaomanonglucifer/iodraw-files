@@ -7,7 +7,7 @@
         <mxCell id="Q-mmcuPftcuzNyCDe-1s-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;feedback loop&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="344" y="100" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q-mmcuPftcuzNyCDe-1s-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q-mmcuPftcuzNyCDe-1s-2" value="initialize robot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
