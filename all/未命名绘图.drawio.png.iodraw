@@ -22,7 +22,7 @@
         <mxCell id="Q-mmcuPftcuzNyCDe-1s-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-mmcuPftcuzNyCDe-1s-5" target="Q-mmcuPftcuzNyCDe-1s-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q-mmcuPftcuzNyCDe-1s-5" value="simulation step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q-mmcuPftcuzNyCDe-1s-5" value="read sensors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q-mmcuPftcuzNyCDe-1s-6" value="cleanup robot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
