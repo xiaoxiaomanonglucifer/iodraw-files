@@ -22,8 +22,11 @@
         <mxCell id="p32Ov6k10v1f-f8an-XH-6" value="Cylinder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p32Ov6k10v1f-f8an-XH-7" value="Shape" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="p32Ov6k10v1f-f8an-XH-7" value="Transform1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p32Ov6k10v1f-f8an-XH-8" value="Transform1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
