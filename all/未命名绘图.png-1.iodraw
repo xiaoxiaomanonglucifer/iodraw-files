@@ -13,7 +13,7 @@
         <mxCell id="p32Ov6k10v1f-f8an-XH-3" value="USE_GO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p32Ov6k10v1f-f8an-XH-4" value="Physics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p32Ov6k10v1f-f8an-XH-4" value="DEF_GO_GROUP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="300" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
