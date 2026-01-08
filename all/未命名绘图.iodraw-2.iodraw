@@ -100,7 +100,7 @@
         <mxCell id="B91TkAf3djqVi3ITDYpy-42" value="1000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B91TkAf3djqVi3ITDYpy-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="B91TkAf3djqVi3ITDYpy-43" value="8个128维的子向量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
