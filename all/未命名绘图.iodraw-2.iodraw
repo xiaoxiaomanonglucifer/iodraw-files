@@ -94,7 +94,7 @@
         <mxCell id="B91TkAf3djqVi3ITDYpy-41" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="520" width="50" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="B91TkAf3djqVi3ITDYpy-42" value="1000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="B91TkAf3djqVi3ITDYpy-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1000&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B91TkAf3djqVi3ITDYpy-43" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;8个128维的子向量&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
