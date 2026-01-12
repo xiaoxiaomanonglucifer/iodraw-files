@@ -382,8 +382,11 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-50" value="生成专业回答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-51" value="更新会话历史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-52" value="返回超出范围提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
