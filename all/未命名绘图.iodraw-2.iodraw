@@ -385,6 +385,9 @@
             <mxPoint x="450" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-51" target="I4Wcuq6GH4mCVsWFf0pI-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-51" value="更新会话历史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="720" width="90" height="30" as="geometry" />
         </mxCell>
