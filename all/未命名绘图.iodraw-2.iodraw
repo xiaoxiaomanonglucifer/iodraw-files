@@ -324,11 +324,6 @@
             <mxPoint x="480.0300000000002" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-31" value="相关性判断" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="540" y="510" width="80" height="80" as="geometry" />
         </mxCell>
@@ -354,6 +349,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="530" as="sourcePoint" />
             <mxPoint x="760" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="580" as="sourcePoint" />
+            <mxPoint x="430" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
