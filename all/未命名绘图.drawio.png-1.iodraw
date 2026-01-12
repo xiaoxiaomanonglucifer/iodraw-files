@@ -451,6 +451,9 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-2" value="向量数据库是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-1020" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-7" target="TfKt9L0quAjQdgfrGbJu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-7" value="无向量检索结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-1010" width="120" height="60" as="geometry" />
         </mxCell>
@@ -466,11 +469,14 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-11" value="&lt;div&gt;过滤低相似度结果&lt;/div&gt;&lt;div&gt;阈值：0.6&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="-905" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-13" target="TfKt9L0quAjQdgfrGbJu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-13" value="提取前3个相关文档" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="-905" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-15" value="向量检索完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-750" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="-970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-19" target="TfKt9L0quAjQdgfrGbJu-21">
           <mxGeometry relative="1" as="geometry" />
@@ -492,7 +498,7 @@
           <mxGeometry x="640" y="-840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-21" value="无图检索结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-830" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-23" target="TfKt9L0quAjQdgfrGbJu-27">
           <mxGeometry relative="1" as="geometry" />
