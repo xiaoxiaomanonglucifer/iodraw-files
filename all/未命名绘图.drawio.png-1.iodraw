@@ -880,14 +880,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KS_MyL6N2_BQx83mYnvK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KS_MyL6N2_BQx83mYnvK-8" target="KS_MyL6N2_BQx83mYnvK-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KS_MyL6N2_BQx83mYnvK-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KS_MyL6N2_BQx83mYnvK-14">
-          <mxGeometry x="-0.2889" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-8" value="模型可用&lt;div&gt;BAAl/bge-m3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="80" height="80" as="geometry" />
         </mxCell>
