@@ -421,7 +421,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TfKt9L0quAjQdgfrGbJu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-1" target="TfKt9L0quAjQdgfrGbJu-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="-1120" />
+              <mxPoint x="90" y="-1055" />
+              <mxPoint x="70" y="-1055" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-1" value="开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="-1150" width="120" height="60" as="geometry" />
@@ -445,7 +451,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-2" value="向量数据库是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-1050" width="80" height="80" as="geometry" />
+          <mxGeometry x="30" y="-1020" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-7" target="TfKt9L0quAjQdgfrGbJu-15">
           <mxGeometry relative="1" as="geometry" />
