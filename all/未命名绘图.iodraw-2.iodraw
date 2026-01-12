@@ -243,9 +243,9 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-2" value="危机检测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="125" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-4">
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="842" as="targetPoint" />
+            <mxPoint x="80" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-4" value="返回危机干预回答" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
