@@ -517,7 +517,7 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-29" value="&lt;div&gt;执行Cypher查询&lt;/div&gt;&lt;div&gt;按关键词遍历图谱&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="-614" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-31" value="&lt;div&gt;执行Cypheri查询&lt;/div&gt;&lt;div&gt;按关键词遍历图谱&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-31" value="去重并构建关系路径" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="-614" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
