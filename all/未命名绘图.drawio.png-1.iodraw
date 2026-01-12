@@ -479,7 +479,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-15" value="向量检索完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-970" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="-660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-19" target="TfKt9L0quAjQdgfrGbJu-21">
           <mxGeometry relative="1" as="geometry" />
