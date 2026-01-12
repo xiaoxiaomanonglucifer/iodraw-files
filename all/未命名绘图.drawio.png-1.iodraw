@@ -429,10 +429,15 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-2" target="TfKt9L0quAjQdgfrGbJu-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TfKt9L0quAjQdgfrGbJu-5">
+          <mxGeometry x="-0.375" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-2" value="向量数据库是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-1050" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-4" value="向量数据库是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-4" value="执行向量检索" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-890" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
