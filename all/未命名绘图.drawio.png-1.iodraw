@@ -854,7 +854,7 @@
         <mxCell id="KS_MyL6N2_BQx83mYnvK-1" value="是否为心理相关内容" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KS_MyL6N2_BQx83mYnvK-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-3" value="返回空列表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
