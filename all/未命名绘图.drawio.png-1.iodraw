@@ -848,8 +848,8 @@
         <mxCell id="QZFkCekOCvDyOuObqmoz-1" value="用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KS_MyL6N2_BQx83mYnvK-1" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="140" width="80" height="80" as="geometry" />
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-1" value="是否为心理相关内容" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
