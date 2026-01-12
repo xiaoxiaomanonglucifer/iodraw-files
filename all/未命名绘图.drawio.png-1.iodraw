@@ -735,8 +735,14 @@
             <mxPoint x="320" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="59mFIwCj7_d2HiVV5JJZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="59mFIwCj7_d2HiVV5JJZ-13" target="59mFIwCj7_d2HiVV5JJZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="59mFIwCj7_d2HiVV5JJZ-13" value="确定主要情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="59mFIwCj7_d2HiVV5JJZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="59mFIwCj7_d2HiVV5JJZ-14" target="59mFIwCj7_d2HiVV5JJZ-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="59mFIwCj7_d2HiVV5JJZ-14" value="需求评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="580" width="120" height="60" as="geometry" />
