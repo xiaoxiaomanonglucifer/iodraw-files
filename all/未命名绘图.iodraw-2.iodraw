@@ -152,7 +152,7 @@
         <mxCell id="AOYBIS0N7sjm6B20V71--15" value="根据置信度进行质量过滤" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AOYBIS0N7sjm6B20V71--17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AOYBIS0N7sjm6B20V71--17" value="保存为csv进行结构式存储" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="395" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
