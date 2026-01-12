@@ -448,7 +448,7 @@
           <mxGeometry x="120" y="-1050" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-7" value="无向量检索结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-9" target="TfKt9L0quAjQdgfrGbJu-11">
           <mxGeometry relative="1" as="geometry" />
