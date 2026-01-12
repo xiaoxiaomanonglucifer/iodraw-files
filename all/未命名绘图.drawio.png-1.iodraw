@@ -507,7 +507,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-23" value="&lt;div&gt;提取关键词&lt;/div&gt;&lt;div&gt;问题分类&lt;/div&gt;&lt;div&gt;获取类别别名&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-930" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-27" target="TfKt9L0quAjQdgfrGbJu-29">
           <mxGeometry relative="1" as="geometry" />
