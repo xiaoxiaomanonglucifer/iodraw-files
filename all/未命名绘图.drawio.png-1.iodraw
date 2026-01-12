@@ -894,8 +894,14 @@
         <mxCell id="KS_MyL6N2_BQx83mYnvK-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KS_MyL6N2_BQx83mYnvK-13" target="KS_MyL6N2_BQx83mYnvK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-13" value="向量语义扩展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-16" value="&lt;div&gt;计算嵌入向量&lt;/div&gt;&lt;div&gt;余弦相以度&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
