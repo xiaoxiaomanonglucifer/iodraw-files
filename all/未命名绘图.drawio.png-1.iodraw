@@ -486,7 +486,7 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-13" value="提取前3个相关文档" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-15">
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-15" target="TfKt9L0quAjQdgfrGbJu-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="-470" as="targetPoint" />
           </mxGeometry>
@@ -539,6 +539,9 @@
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-31" value="去重并构建关系路径" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-36" target="TfKt9L0quAjQdgfrGbJu-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-36" value="图谱检索完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="-630" width="120" height="60" as="geometry" />
