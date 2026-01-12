@@ -741,6 +741,15 @@
         <mxCell id="59mFIwCj7_d2HiVV5JJZ-14" value="需求评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="59mFIwCj7_d2HiVV5JJZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59mFIwCj7_d2HiVV5JJZ-15" target="59mFIwCj7_d2HiVV5JJZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59mFIwCj7_d2HiVV5JJZ-15" value="生成干预建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="59mFIwCj7_d2HiVV5JJZ-16" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
