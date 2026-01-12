@@ -541,7 +541,7 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.69;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-31" target="TfKt9L0quAjQdgfrGbJu-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-40" value="图谱向量数据库" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="-1070" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
