@@ -572,6 +572,9 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-45" value="执行图谱向量检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-48" target="TfKt9L0quAjQdgfrGbJu-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-48" value="过滤并提取三元组文本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="-930" width="120" height="60" as="geometry" />
         </mxCell>
