@@ -801,11 +801,17 @@
         <mxCell id="Qfmt9a6CQXnvg2BC2Osu-6" value="是否匹配" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qfmt9a6CQXnvg2BC2Osu-8" target="Qfmt9a6CQXnvg2BC2Osu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qfmt9a6CQXnvg2BC2Osu-8" value="jieba分词+TF-lDF" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qfmt9a6CQXnvg2BC2Osu-11" value="直接输出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
