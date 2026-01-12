@@ -373,7 +373,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-44" value="生成专业回答" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
