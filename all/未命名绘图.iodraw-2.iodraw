@@ -374,10 +374,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-50" value="生成专业回答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="650" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-52" value="返回超出范围提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-51">
           <mxGeometry relative="1" as="geometry">
