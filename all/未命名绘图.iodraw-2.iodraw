@@ -266,7 +266,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-15" target="I4Wcuq6GH4mCVsWFf0pI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-15" value="相关性判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="230" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
