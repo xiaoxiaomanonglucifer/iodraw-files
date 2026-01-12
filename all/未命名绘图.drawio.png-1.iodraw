@@ -604,8 +604,14 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-59" value="&lt;div&gt;图谱上下文&lt;/div&gt;&lt;div&gt;结构化关系路径&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-61" target="TfKt9L0quAjQdgfrGbJu-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-61" value="&lt;div&gt;图谱向量上下文&lt;/div&gt;&lt;div&gt;三元组语义说明&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-63" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="-90" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
