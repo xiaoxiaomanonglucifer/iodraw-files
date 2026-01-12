@@ -915,8 +915,14 @@
         <mxCell id="KS_MyL6N2_BQx83mYnvK-20" value="&lt;div&gt;相以度排序&lt;/div&gt;&lt;div&gt;阈值过滤&amp;gt;0.6&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KS_MyL6N2_BQx83mYnvK-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-25" value="合并多策略结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="340" as="sourcePoint" />
+            <mxPoint x="200" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
