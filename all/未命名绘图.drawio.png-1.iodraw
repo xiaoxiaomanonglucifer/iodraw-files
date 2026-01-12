@@ -477,8 +477,14 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-15" value="向量检索完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="-970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-19" target="TfKt9L0quAjQdgfrGbJu-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-19" value="图向量数据库是否存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="-840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-21" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
