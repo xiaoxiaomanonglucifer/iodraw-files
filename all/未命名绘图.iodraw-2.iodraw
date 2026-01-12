@@ -243,11 +243,6 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-2" value="危机检测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="125" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-4" value="返回危机干预回答" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="510" width="80" height="40" as="geometry" />
         </mxCell>
@@ -395,6 +390,12 @@
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="790" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="550" as="sourcePoint" />
+            <mxPoint x="70" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
