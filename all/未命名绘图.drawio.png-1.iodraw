@@ -861,6 +861,11 @@
             <mxPoint x="320" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KS_MyL6N2_BQx83mYnvK-7">
+          <mxGeometry x="-0.2476" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-1" value="是否为心理相关内容" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="80" height="80" as="geometry" />
         </mxCell>
