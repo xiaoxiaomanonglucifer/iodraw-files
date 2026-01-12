@@ -427,8 +427,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-1" target="TfKt9L0quAjQdgfrGbJu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-1" value="开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-1150" width="340" height="60" as="geometry" />
+          <mxGeometry x="220" y="-1160" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-2" target="TfKt9L0quAjQdgfrGbJu-9">
           <mxGeometry relative="1" as="geometry">
@@ -495,7 +498,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-19" value="图向量数据库是否存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-840" width="80" height="80" as="geometry" />
+          <mxGeometry x="350" y="-1030" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-21" value="无图检索结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="-630" width="120" height="60" as="geometry" />
