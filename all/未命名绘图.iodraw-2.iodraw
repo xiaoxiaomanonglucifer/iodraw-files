@@ -300,11 +300,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-20" target="I4Wcuq6GH4mCVsWFf0pI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-20" value="语义拓展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-22" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-25" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="375" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
