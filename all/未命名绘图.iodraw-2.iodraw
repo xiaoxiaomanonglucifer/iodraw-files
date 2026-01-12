@@ -249,6 +249,9 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-7" value="返回不相关回答" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="510" width="85" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-10" target="I4Wcuq6GH4mCVsWFf0pI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-10" value="情感分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="235" width="120" height="60" as="geometry" />
         </mxCell>
@@ -288,6 +291,9 @@
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-15" value="相关性判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="230" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-20" value="语义拓展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="235" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
