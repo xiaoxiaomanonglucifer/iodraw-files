@@ -304,6 +304,11 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-25" value="图谱检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="385" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-27" value="三元组检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="385" width="90" height="45" as="geometry" />
         </mxCell>
