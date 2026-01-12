@@ -476,7 +476,7 @@
           <mxGeometry x="330" y="-905" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-15" value="向量检索完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-970" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-19" target="TfKt9L0quAjQdgfrGbJu-21">
           <mxGeometry relative="1" as="geometry" />
@@ -516,10 +516,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-29" value="&lt;div&gt;执行Cypher查询&lt;/div&gt;&lt;div&gt;按关键词遍历图谱&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-614" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-31" value="去重并构建关系路径" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-614" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
