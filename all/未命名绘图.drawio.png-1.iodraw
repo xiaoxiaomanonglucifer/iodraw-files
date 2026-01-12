@@ -782,8 +782,14 @@
         <mxCell id="Qfmt9a6CQXnvg2BC2Osu-4" value="快速匹配" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-6" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qfmt9a6CQXnvg2BC2Osu-6" target="Qfmt9a6CQXnvg2BC2Osu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-6" value="是否匹配" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
