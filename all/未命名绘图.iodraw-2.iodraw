@@ -357,11 +357,19 @@
             <mxPoint x="430" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4Wcuq6GH4mCVsWFf0pI-42">
+          <mxGeometry x="-0.218" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="570" as="sourcePoint" />
             <mxPoint x="700" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
