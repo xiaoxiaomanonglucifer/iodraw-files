@@ -676,8 +676,11 @@
         <mxCell id="bikovYnjiKWgzh5cmy5c-11" value="核心服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="265" y="185" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bikovYnjiKWgzh5cmy5c-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="308" width="50" height="30" as="geometry" />
+        <mxCell id="bikovYnjiKWgzh5cmy5c-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bikovYnjiKWgzh5cmy5c-13" target="bikovYnjiKWgzh5cmy5c-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bikovYnjiKWgzh5cmy5c-13" value="智能检索层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
