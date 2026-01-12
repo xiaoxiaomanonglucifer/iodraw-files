@@ -942,8 +942,14 @@
         <mxCell id="KS_MyL6N2_BQx83mYnvK-31" value="&lt;div&gt;自适应参数调整&lt;/div&gt;&lt;div&gt;查询长度&lt;/div&gt;&lt;div&gt;情感水平&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KS_MyL6N2_BQx83mYnvK-33" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KS_MyL6N2_BQx83mYnvK-33" target="KS_MyL6N2_BQx83mYnvK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-33" value="结果质量过滤" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-35" value="返回扩展概念列表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
