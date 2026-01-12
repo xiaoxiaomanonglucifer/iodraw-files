@@ -203,8 +203,14 @@
         <mxCell id="AOYBIS0N7sjm6B20V71--34" value="生成cypher语言" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="975" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AOYBIS0N7sjm6B20V71--39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AOYBIS0N7sjm6B20V71--36" target="AOYBIS0N7sjm6B20V71--38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AOYBIS0N7sjm6B20V71--36" value="执行语言" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="975" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AOYBIS0N7sjm6B20V71--38" value="完整性验证" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="975" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
