@@ -462,8 +462,8 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-11" value="&lt;div&gt;过滤低相似度结果&lt;/div&gt;&lt;div&gt;阈值：0.6&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-670" width="120" height="60" as="geometry" />
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-13" value="提取前3个相关文档" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
