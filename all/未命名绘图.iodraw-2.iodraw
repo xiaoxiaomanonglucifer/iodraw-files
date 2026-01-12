@@ -185,8 +185,14 @@
         <mxCell id="AOYBIS0N7sjm6B20V71--28" value="关系标准化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="835" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AOYBIS0N7sjm6B20V71--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AOYBIS0N7sjm6B20V71--30" target="AOYBIS0N7sjm6B20V71--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AOYBIS0N7sjm6B20V71--30" value="预计算节点类型" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AOYBIS0N7sjm6B20V71--32" value="按关系类型分组" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="835" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
