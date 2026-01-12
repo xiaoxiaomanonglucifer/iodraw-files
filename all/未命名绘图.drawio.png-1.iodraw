@@ -880,6 +880,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KS_MyL6N2_BQx83mYnvK-8" target="KS_MyL6N2_BQx83mYnvK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-8" value="模型可用&lt;div&gt;BAAl/bge-m3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="80" height="80" as="geometry" />
         </mxCell>
@@ -890,7 +893,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-13" value="向量语义扩展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KS_MyL6N2_BQx83mYnvK-16" target="KS_MyL6N2_BQx83mYnvK-18">
           <mxGeometry relative="1" as="geometry" />
