@@ -351,10 +351,10 @@
             <mxPoint x="760" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="570" as="sourcePoint" />
-            <mxPoint x="430" y="650" as="targetPoint" />
+            <mxPoint x="440" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-45" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4Wcuq6GH4mCVsWFf0pI-42">
@@ -373,14 +373,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-44" target="I4Wcuq6GH4mCVsWFf0pI-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-44" value="生成专业回答" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="370" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="710" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-47" value="更新会话历史" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-50" value="生成专业回答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
