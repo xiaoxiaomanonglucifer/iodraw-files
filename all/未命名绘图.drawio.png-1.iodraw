@@ -426,7 +426,7 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-1" value="开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="-1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-2">
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-2" target="TfKt9L0quAjQdgfrGbJu-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="-890" as="targetPoint" />
           </mxGeometry>
@@ -454,10 +454,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-9" value="执行向量检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-890" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-11" value="&lt;div&gt;过滤低相似度结果&lt;/div&gt;&lt;div&gt;阈值：0.6&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-780" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
