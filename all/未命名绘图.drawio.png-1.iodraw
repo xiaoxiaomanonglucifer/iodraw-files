@@ -416,7 +416,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R5TZJ0Xk8mDf9ba_GTaF" name="第 4 页">
-    <mxGraphModel dx="1515" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1515" dy="3019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,6 +434,9 @@
               <mxPoint x="400" y="-1100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-1" target="TfKt9L0quAjQdgfrGbJu-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-1" value="开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="-1160" width="430" height="60" as="geometry" />
@@ -505,6 +508,9 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-19" value="图向量数据库是否存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="-1060" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-21" target="TfKt9L0quAjQdgfrGbJu-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-21" value="无图检索结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
@@ -531,6 +537,12 @@
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-36" value="图谱检索完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.69;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TfKt9L0quAjQdgfrGbJu-31" target="TfKt9L0quAjQdgfrGbJu-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="-1170" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
