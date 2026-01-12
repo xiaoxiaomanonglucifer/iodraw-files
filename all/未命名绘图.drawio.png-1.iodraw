@@ -661,7 +661,7 @@
         <mxCell id="bikovYnjiKWgzh5cmy5c-5" value="混合检索模块(向量检索+图谱检索)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bikovYnjiKWgzh5cmy5c-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bikovYnjiKWgzh5cmy5c-7" value="知识图谱构建模块(三元组提取+图谱导入)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
