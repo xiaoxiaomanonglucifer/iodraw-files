@@ -301,7 +301,7 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-22" value="向量检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="385" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-25" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-25" value="图谱检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="385" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-27" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
