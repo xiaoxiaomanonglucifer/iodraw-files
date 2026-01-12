@@ -298,6 +298,11 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-20" value="语义拓展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="235" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-22" value="向量检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="385" width="90" height="40" as="geometry" />
         </mxCell>
