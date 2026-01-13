@@ -968,14 +968,20 @@
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-10" value="&amp;nbsp;应用服务层" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="250" width="120" height="80" as="geometry" />
+        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-11" value="&amp;nbsp;基础设施层" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-12" value="数据存储层" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-13" value="AI引擎层&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="70" as="sourcePoint" />
+            <mxPoint x="530" y="20" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
