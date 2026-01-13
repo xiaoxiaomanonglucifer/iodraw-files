@@ -1248,6 +1248,24 @@
         <mxCell id="trfJUo5XzzKPfqBuwyKG-7" value="配置系统&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="150" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="trfJUo5XzzKPfqBuwyKG-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.625;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="trfJUo5XzzKPfqBuwyKG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="80" as="sourcePoint" />
+            <mxPoint x="480" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trfJUo5XzzKPfqBuwyKG-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.783;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="trfJUo5XzzKPfqBuwyKG-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="80" as="sourcePoint" />
+            <mxPoint x="170" y="151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trfJUo5XzzKPfqBuwyKG-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.783;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479" y="80" as="sourcePoint" />
+            <mxPoint x="348" y="157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
