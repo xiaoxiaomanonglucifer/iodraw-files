@@ -1343,8 +1343,11 @@
         <mxCell id="dRrHfW4joHGg4nUf7UR7-47" value="前端交互模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="140" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-52" value="前端交互模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-52" value="智能问答模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="140" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-54" value="前端交互模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
