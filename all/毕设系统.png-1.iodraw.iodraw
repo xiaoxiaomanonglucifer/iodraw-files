@@ -1168,13 +1168,13 @@
         <mxCell id="6pJWC4CiwQEzky4Z68rG-2" value="FAISS向量索引&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6pJWC4CiwQEzky4Z68rG-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6pJWC4CiwQEzky4Z68rG-3" value="&amp;nbsp; Neo4j图数据库&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6pJWC4CiwQEzky4Z68rG-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6pJWC4CiwQEzky4Z68rG-4" value="文件系统&amp;nbsp; &amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6pJWC4CiwQEzky4Z68rG-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6pJWC4CiwQEzky4Z68rG-5" value="&amp;nbsp; 数据加载&amp;nbsp; &amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6pJWC4CiwQEzky4Z68rG-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
