@@ -1308,7 +1308,7 @@
           <mxGeometry x="584" y="200" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-41" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="660" y="180" width="110" height="40" as="geometry" />
+          <mxGeometry x="830" y="200" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dRrHfW4joHGg4nUf7UR7-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1353,7 +1353,7 @@
           <mxGeometry x="614" y="150" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-56" value="支撑功能模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="130" width="50" height="120" as="geometry" />
+          <mxGeometry x="860" y="150" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-63" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="30" y="430" width="110" height="40" as="geometry" />
