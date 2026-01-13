@@ -1428,7 +1428,7 @@
           <mxGeometry x="614" y="330" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-91" value="结果融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="624" y="340" width="50" height="120" as="geometry" />
+          <mxGeometry x="694" y="330" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
