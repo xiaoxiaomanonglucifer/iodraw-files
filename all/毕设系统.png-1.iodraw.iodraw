@@ -1439,8 +1439,11 @@
         <mxCell id="dRrHfW4joHGg4nUf7UR7-94" value="情感分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="330" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-95" value="情感分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-95" value="关键词提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="330" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-96" value="关键词提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="340" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
