@@ -1328,7 +1328,7 @@
             <mxPoint x="510" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="dRrHfW4joHGg4nUf7UR7-55">
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dRrHfW4joHGg4nUf7UR7-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="80" as="sourcePoint" />
             <mxPoint x="620" y="140" as="targetPoint" />
@@ -1356,13 +1356,13 @@
           <mxGeometry x="860" y="150" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-63" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="30" y="430" width="110" height="40" as="geometry" />
+          <mxGeometry x="-10" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-64" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="90" y="430" width="110" height="40" as="geometry" />
+          <mxGeometry x="70" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-65" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="170" y="430" width="110" height="40" as="geometry" />
+          <mxGeometry x="150" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-66" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="250" y="430" width="110" height="40" as="geometry" />
@@ -1408,6 +1408,9 @@
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-80" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1020" y="580" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-81" value="前端交互模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
