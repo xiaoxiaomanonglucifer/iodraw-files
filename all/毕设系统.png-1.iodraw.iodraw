@@ -1412,6 +1412,9 @@
         <mxCell id="dRrHfW4joHGg4nUf7UR7-81" value="微信小程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="50" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-82" value="微信小程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="330" width="50" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
