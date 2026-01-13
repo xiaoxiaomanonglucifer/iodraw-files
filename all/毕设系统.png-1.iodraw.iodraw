@@ -1418,8 +1418,11 @@
         <mxCell id="dRrHfW4joHGg4nUf7UR7-83" value="界面展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="330" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-84" value="界面展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-84" value="问题理解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="330" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-85" value="问题理解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
