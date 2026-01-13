@@ -1053,6 +1053,15 @@
         <mxCell id="55mQhnhD8AK4KuToZIz2-1" value="应用服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="55mQhnhD8AK4KuToZIz2-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55mQhnhD8AK4KuToZIz2-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55mQhnhD8AK4KuToZIz2-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
