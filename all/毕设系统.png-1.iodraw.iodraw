@@ -1341,7 +1341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-47" value="前端交互模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="160" width="50" height="120" as="geometry" />
+          <mxGeometry x="140" y="160" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-52" value="智能问答模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="50" height="120" as="geometry" />
@@ -1471,8 +1471,8 @@
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="343" y="280" as="sourcePoint" />
-            <mxPoint x="300" y="350" as="targetPoint" />
+            <mxPoint x="353" y="280" as="sourcePoint" />
+            <mxPoint x="310" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
