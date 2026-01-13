@@ -1341,7 +1341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-47" value="前端交互模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="60" height="70" as="geometry" />
+          <mxGeometry x="170" y="140" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
