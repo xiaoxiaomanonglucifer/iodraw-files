@@ -1233,13 +1233,13 @@
         <mxCell id="trfJUo5XzzKPfqBuwyKG-2" value="Ollama服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="trfJUo5XzzKPfqBuwyKG-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trfJUo5XzzKPfqBuwyKG-3" value="Neo4j服务&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="trfJUo5XzzKPfqBuwyKG-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trfJUo5XzzKPfqBuwyKG-4" value="&amp;nbsp;系统监控&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="trfJUo5XzzKPfqBuwyKG-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trfJUo5XzzKPfqBuwyKG-5" value="Python环境&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
