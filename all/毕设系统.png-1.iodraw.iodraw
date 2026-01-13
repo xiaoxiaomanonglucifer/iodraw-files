@@ -1305,7 +1305,7 @@
           <mxGeometry x="471" y="203" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-40" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="110" height="40" as="geometry" />
+          <mxGeometry x="675" y="205" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-41" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="880" y="200" width="110" height="40" as="geometry" />
@@ -1350,7 +1350,7 @@
           <mxGeometry x="504" y="170" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-55" value="知识图谱构建模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="160" width="50" height="120" as="geometry" />
+          <mxGeometry x="710" y="160" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-56" value="支撑功能模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="150" width="50" height="120" as="geometry" />
