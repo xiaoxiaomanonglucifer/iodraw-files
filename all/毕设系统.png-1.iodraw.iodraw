@@ -1392,13 +1392,13 @@
           <mxGeometry x="790" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-75" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="900" y="370" width="110" height="40" as="geometry" />
+          <mxGeometry x="870" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-76" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="970" y="370" width="110" height="40" as="geometry" />
+          <mxGeometry x="940" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-77" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="370" width="110" height="40" as="geometry" />
+          <mxGeometry x="1010" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-81" value="微信小程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="330" width="50" height="120" as="geometry" />
@@ -1437,13 +1437,13 @@
           <mxGeometry x="820" y="330" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-94" value="情感分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="330" width="50" height="120" as="geometry" />
+          <mxGeometry x="900" y="330" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-95" value="关键词提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="340" width="50" height="110" as="geometry" />
+          <mxGeometry x="970" y="340" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-96" value="语义拓展" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="330" width="50" height="120" as="geometry" />
+          <mxGeometry x="1040" y="330" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.14;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dRrHfW4joHGg4nUf7UR7-47" target="dRrHfW4joHGg4nUf7UR7-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
