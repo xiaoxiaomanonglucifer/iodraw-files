@@ -1392,22 +1392,16 @@
           <mxGeometry x="810" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-75" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="890" y="420" width="110" height="40" as="geometry" />
+          <mxGeometry x="900" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-76" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="970" y="420" width="110" height="40" as="geometry" />
+          <mxGeometry x="970" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-77" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="420" width="110" height="40" as="geometry" />
+          <mxGeometry x="1040" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-78" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="420" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-79" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="565" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-80" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="580" width="110" height="40" as="geometry" />
+          <mxGeometry x="1110" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-81" value="微信小程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="330" width="50" height="120" as="geometry" />
