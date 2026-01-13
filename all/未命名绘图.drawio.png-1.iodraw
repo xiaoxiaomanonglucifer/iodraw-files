@@ -962,9 +962,6 @@
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-1" value="校园心理健康问答系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-6" value="AI引擎层&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-7" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -974,8 +971,17 @@
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-9" value="用户层" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-10" value="&amp;nbsp;应用服务层" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
