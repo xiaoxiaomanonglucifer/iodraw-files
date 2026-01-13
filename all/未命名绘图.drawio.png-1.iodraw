@@ -971,8 +971,11 @@
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-6" value="AI引擎层&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-7" value="AI引擎层&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-7" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-8" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
