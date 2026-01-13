@@ -1368,10 +1368,10 @@
           <mxGeometry x="230" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-67" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="320" y="430" width="110" height="40" as="geometry" />
+          <mxGeometry x="304" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-68" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="390" y="430" width="110" height="40" as="geometry" />
+          <mxGeometry x="370" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-69" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="460" y="430" width="110" height="40" as="geometry" />
@@ -1417,6 +1417,9 @@
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-83" value="界面展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="330" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-84" value="界面展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
