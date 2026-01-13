@@ -1427,8 +1427,11 @@
         <mxCell id="dRrHfW4joHGg4nUf7UR7-86" value="质量生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="330" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-87" value="质量生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="340" width="50" height="120" as="geometry" />
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-87" value="向量检索" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="330" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-88" value="向量检索" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
