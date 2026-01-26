@@ -1663,6 +1663,9 @@
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-16" value="图谱检索-Neo4j" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MZGMQUrgdzDI6LHyKrtp-17" value="结果融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
