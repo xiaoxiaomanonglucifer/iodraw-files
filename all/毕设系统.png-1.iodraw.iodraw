@@ -1685,8 +1685,14 @@
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-4" value="作答" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPCcUY8xQJmsh3LLwYXo-6" target="GPCcUY8xQJmsh3LLwYXo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-6" value="计算得分" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-8" value="计算得分" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
