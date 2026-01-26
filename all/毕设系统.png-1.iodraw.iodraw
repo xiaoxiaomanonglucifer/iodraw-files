@@ -1656,7 +1656,7 @@
         <mxCell id="KPUGsWXcw40sRCiRbpkY-2" value="生成JWT_TOKEN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KPUGsWXcw40sRCiRbpkY-4" value="生成JWT_TOKEN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KPUGsWXcw40sRCiRbpkY-4" value="返回JWT_TOKEN和用户状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
