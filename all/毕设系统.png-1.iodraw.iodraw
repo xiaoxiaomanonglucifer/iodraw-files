@@ -1648,13 +1648,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-11" value="数据库查询或创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KPUGsWXcw40sRCiRbpkY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KPUGsWXcw40sRCiRbpkY-2" target="KPUGsWXcw40sRCiRbpkY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KPUGsWXcw40sRCiRbpkY-2" value="生成JWT_TOKEN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KPUGsWXcw40sRCiRbpkY-4" value="返回JWT_TOKEN和用户状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="690" width="120" height="60" as="geometry" />
