@@ -1632,7 +1632,7 @@
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-5" value="语义拓展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MZGMQUrgdzDI6LHyKrtp-7" value="语义拓展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MZGMQUrgdzDI6LHyKrtp-7" value="问题类型分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
