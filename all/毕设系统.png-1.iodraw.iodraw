@@ -1652,7 +1652,7 @@
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-11" value="向量检索-FAISS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MZGMQUrgdzDI6LHyKrtp-14" value="向量检索-FAISS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MZGMQUrgdzDI6LHyKrtp-14" value="情感分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
