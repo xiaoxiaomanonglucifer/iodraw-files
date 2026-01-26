@@ -1614,8 +1614,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MZGMQUrgdzDI6LHyKrtp-1" value="graph TD&#xa;    A[用户输入问题] --&gt; B[关键词提取]&#xa;    B --&gt; C[语义扩展]&#xa;    C --&gt; D[问题类型分类]&#xa;    D --&gt; E[混合检索]&#xa;    E --&gt; F[情感分析]&#xa;    F --&gt; G[LLM生成回答]&#xa;    G --&gt; H[危机检测]&#xa;    H --&gt; I[返回结果]&#xa;    &#xa;    E --&gt; E1[向量检索-FAISS]&#xa;    E --&gt; E2[图谱检索-Neo4j]&#xa;    E1 --&gt; E3[结果融合]&#xa;    E2 --&gt; E3" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="230" height="220" as="geometry" />
+        <mxCell id="MZGMQUrgdzDI6LHyKrtp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
