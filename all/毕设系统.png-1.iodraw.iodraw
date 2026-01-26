@@ -1636,13 +1636,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-7" value="发送到后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZGMQUrgdzDI6LHyKrtp-9" target="MZGMQUrgdzDI6LHyKrtp-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-9" value="后端生成openid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KPUGsWXcw40sRCiRbpkY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZGMQUrgdzDI6LHyKrtp-11" target="KPUGsWXcw40sRCiRbpkY-2">
           <mxGeometry relative="1" as="geometry" />
