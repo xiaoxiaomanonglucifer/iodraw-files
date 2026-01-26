@@ -1617,7 +1617,7 @@
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZGMQUrgdzDI6LHyKrtp-2" target="MZGMQUrgdzDI6LHyKrtp-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MZGMQUrgdzDI6LHyKrtp-2" value="用户输入问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MZGMQUrgdzDI6LHyKrtp-2" value="用户点击登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZGMQUrgdzDI6LHyKrtp-3" target="MZGMQUrgdzDI6LHyKrtp-5">
