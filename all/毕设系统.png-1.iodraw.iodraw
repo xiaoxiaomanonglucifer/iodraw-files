@@ -1673,8 +1673,14 @@
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-1" value="选择测试类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPCcUY8xQJmsh3LLwYXo-2" target="GPCcUY8xQJmsh3LLwYXo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-2" value="加载题目并计时" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-4" value="作答" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
