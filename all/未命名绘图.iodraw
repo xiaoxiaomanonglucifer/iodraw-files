@@ -177,7 +177,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AOYBIS0N7sjm6B20V71--26" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据清洗(去重等操作)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="680" width="120" height="75" as="geometry" />
+          <mxGeometry x="480" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AOYBIS0N7sjm6B20V71--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AOYBIS0N7sjm6B20V71--28" target="AOYBIS0N7sjm6B20V71--30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -194,8 +194,8 @@
         <mxCell id="AOYBIS0N7sjm6B20V71--35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AOYBIS0N7sjm6B20V71--32" target="AOYBIS0N7sjm6B20V71--34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AOYBIS0N7sjm6B20V71--32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;按关系类型分组&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="835" width="120" height="60" as="geometry" />
+        <mxCell id="AOYBIS0N7sjm6B20V71--32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;按关系类型分组&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="820" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="AOYBIS0N7sjm6B20V71--37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AOYBIS0N7sjm6B20V71--34" target="AOYBIS0N7sjm6B20V71--36" edge="1">
           <mxGeometry relative="1" as="geometry" />
