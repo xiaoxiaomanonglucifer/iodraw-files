@@ -1674,7 +1674,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;选择测试类型&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="10" width="130" height="70" as="geometry" />
+          <mxGeometry x="140" y="5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-2" target="GPCcUY8xQJmsh3LLwYXo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1686,12 +1686,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;作答&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-6" target="GPCcUY8xQJmsh3LLwYXo-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-6" value="计算得分" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;计算得分&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-8" edge="1">
@@ -1699,10 +1699,10 @@
             <mxPoint x="300" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-8" value="判断类型" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;判断类型&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-12" value="显示结果" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;显示结果&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
