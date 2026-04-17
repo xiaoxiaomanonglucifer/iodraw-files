@@ -898,8 +898,8 @@
         <mxCell id="KS_MyL6N2_BQx83mYnvK-8" value="模型可用&lt;div&gt;BAAl/bge-m3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KS_MyL6N2_BQx83mYnvK-10" value="关键词规则扩展" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="KS_MyL6N2_BQx83mYnvK-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;关键词规则扩展&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KS_MyL6N2_BQx83mYnvK-13" target="KS_MyL6N2_BQx83mYnvK-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
