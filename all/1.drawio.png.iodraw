@@ -281,18 +281,13 @@
           <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-22" value="向量检索" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="385" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="510" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="550" y="385" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-25" value="图谱检索" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="535" y="385" width="90" height="40" as="geometry" />
+          <mxGeometry x="665" y="385" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-27" value="三元组检索" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="385" width="90" height="45" as="geometry" />
+          <mxGeometry x="790" y="385" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="I4Wcuq6GH4mCVsWFf0pI-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
