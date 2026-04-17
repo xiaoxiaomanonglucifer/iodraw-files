@@ -953,10 +953,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-33" value="结果质量过滤" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-35" value="返回扩展概念列表" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
