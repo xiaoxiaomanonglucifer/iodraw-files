@@ -652,14 +652,14 @@
         <mxCell id="bikovYnjiKWgzh5cmy5c-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bikovYnjiKWgzh5cmy5c-3" target="bikovYnjiKWgzh5cmy5c-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bikovYnjiKWgzh5cmy5c-3" value="智能回答模块(问题理解+答案生成)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="bikovYnjiKWgzh5cmy5c-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;智能回答模块(问题理解+答案生成)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="150" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bikovYnjiKWgzh5cmy5c-5" target="bikovYnjiKWgzh5cmy5c-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-5" value="混合检索模块(向量检索+图谱检索)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="290" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-7" value="知识图谱构建模块(三元组提取+图谱导入)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="450" width="120" height="60" as="geometry" />
