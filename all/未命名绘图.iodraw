@@ -416,7 +416,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R5TZJ0Xk8mDf9ba_GTaF" name="第 4 页">
-    <mxGraphModel dx="337" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="694" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -573,8 +573,8 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-42" target="TfKt9L0quAjQdgfrGbJu-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-42" value="无图谱向量检索结果" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="-835" width="120" height="60" as="geometry" />
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;无图谱向量检索结果&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="875" y="-827.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-45" target="TfKt9L0quAjQdgfrGbJu-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
