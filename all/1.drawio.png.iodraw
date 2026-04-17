@@ -639,46 +639,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前端交互模块(微信小程序界面)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="10" width="130" height="80" as="geometry" />
+          <mxGeometry x="210" y="70" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bikovYnjiKWgzh5cmy5c-3" target="bikovYnjiKWgzh5cmy5c-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;智能回答模块(问题理解+答案生成)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="150" width="130" height="80" as="geometry" />
+          <mxGeometry x="210" y="210" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bikovYnjiKWgzh5cmy5c-5" target="bikovYnjiKWgzh5cmy5c-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;混合检索模块(向量检索+图谱检索)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="290" width="130" height="80" as="geometry" />
+          <mxGeometry x="210" y="350" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;知识图谱构建模块(三元组提取+图谱导入)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="430" width="130" height="80" as="geometry" />
+          <mxGeometry x="210" y="490" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bikovYnjiKWgzh5cmy5c-9" target="bikovYnjiKWgzh5cmy5c-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户界面层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="30" width="110" height="40" as="geometry" />
+          <mxGeometry x="360" y="90" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bikovYnjiKWgzh5cmy5c-11" target="bikovYnjiKWgzh5cmy5c-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;核心服务层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="170" width="110" height="40" as="geometry" />
+          <mxGeometry x="360" y="230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bikovYnjiKWgzh5cmy5c-13" target="bikovYnjiKWgzh5cmy5c-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;智能检索层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="360" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bikovYnjiKWgzh5cmy5c-15" target="bikovYnjiKWgzh5cmy5c-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bikovYnjiKWgzh5cmy5c-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据基础层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="450" width="110" height="40" as="geometry" />
+          <mxGeometry x="360" y="510" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
