@@ -465,8 +465,8 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TfKt9L0quAjQdgfrGbJu-7" target="TfKt9L0quAjQdgfrGbJu-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-7" value="无向量检索结果" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-990" width="120" height="60" as="geometry" />
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;无向量检索结果&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-990" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-9" target="TfKt9L0quAjQdgfrGbJu-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
