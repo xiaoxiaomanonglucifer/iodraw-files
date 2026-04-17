@@ -472,7 +472,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;执行向量检索&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-950" width="110" height="70" as="geometry" />
+          <mxGeometry x="45" y="-915" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-11" target="TfKt9L0quAjQdgfrGbJu-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -492,7 +492,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-15" value="向量检索完成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-19" target="TfKt9L0quAjQdgfrGbJu-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
