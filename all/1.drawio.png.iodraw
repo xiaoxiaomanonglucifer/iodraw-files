@@ -947,7 +947,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-31" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;自适应参数调整&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;查询长度&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;情感水平&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="620" width="150" height="110" as="geometry" />
+          <mxGeometry x="500" y="645" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KS_MyL6N2_BQx83mYnvK-33" target="KS_MyL6N2_BQx83mYnvK-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
