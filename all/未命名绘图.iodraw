@@ -585,8 +585,8 @@
         <mxCell id="TfKt9L0quAjQdgfrGbJu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TfKt9L0quAjQdgfrGbJu-48" target="TfKt9L0quAjQdgfrGbJu-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-48" value="过滤并提取三元组文本" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="-835" width="120" height="60" as="geometry" />
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-48" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;过滤并提取三元组文本&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1115" y="-835" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="TfKt9L0quAjQdgfrGbJu-52" target="TfKt9L0quAjQdgfrGbJu-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
