@@ -416,7 +416,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R5TZJ0Xk8mDf9ba_GTaF" name="第 4 页">
-    <mxGraphModel dx="1666" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="793" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -492,7 +492,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;向量检索完成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-601" width="120" height="78" as="geometry" />
+          <mxGeometry x="215" y="-601" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-19" target="TfKt9L0quAjQdgfrGbJu-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
