@@ -280,8 +280,8 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;语义拓展&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-22" value="向量检索" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="385" width="90" height="40" as="geometry" />
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;向量检索&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="370" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-25" value="图谱检索" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="665" y="385" width="90" height="40" as="geometry" />
@@ -385,7 +385,7 @@
             <mxPoint x="664.17" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uk7yg9jrrFY_6tCyWcHn-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.606;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="uk7yg9jrrFY_6tCyWcHn-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.337;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="739.5899999999999" y="290" as="sourcePoint" />
             <mxPoint x="680.42" y="387" as="targetPoint" />
