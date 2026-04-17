@@ -1621,19 +1621,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户点击登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="30" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MZGMQUrgdzDI6LHyKrtp-3" target="MZGMQUrgdzDI6LHyKrtp-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MZGMQUrgdzDI6LHyKrtp-3" value="wx.login获取code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="MZGMQUrgdzDI6LHyKrtp-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;wx.login获取code&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="35" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MZGMQUrgdzDI6LHyKrtp-5" target="MZGMQUrgdzDI6LHyKrtp-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-5" value="获取用户信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MZGMQUrgdzDI6LHyKrtp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MZGMQUrgdzDI6LHyKrtp-7" target="MZGMQUrgdzDI6LHyKrtp-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
