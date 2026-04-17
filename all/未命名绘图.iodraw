@@ -511,7 +511,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-19" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;图数据库是否存在&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-1080" width="130" height="110" as="geometry" />
+          <mxGeometry x="352.5" y="-1060" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -519,7 +519,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;无图检索结果&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="355" y="-900" width="125" height="80" as="geometry" />
+          <mxGeometry x="355" y="-880" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-23" target="TfKt9L0quAjQdgfrGbJu-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
