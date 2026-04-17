@@ -1068,10 +1068,10 @@
         <mxCell id="55mQhnhD8AK4KuToZIz2-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;应用服务层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="55mQhnhD8AK4KuToZIz2-2" value="&amp;nbsp;FastAPI服务&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="55mQhnhD8AK4KuToZIz2-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;FastAPI服务&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="55mQhnhD8AK4KuToZIz2-3" value="&amp;nbsp; 危机干预&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="55mQhnhD8AK4KuToZIz2-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; 危机干预&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="55mQhnhD8AK4KuToZIz2-4" value="问题分类&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
