@@ -298,7 +298,7 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-31" value="相关性判断" style="rhombus;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="675" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-31" edge="1">
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-31" edge="1" source="I4Wcuq6GH4mCVsWFf0pI-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="605" y="530" as="sourcePoint" />
             <mxPoint x="655" y="490" as="targetPoint" />
@@ -389,6 +389,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="739.5899999999999" y="290" as="sourcePoint" />
             <mxPoint x="680.42" y="387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk7yg9jrrFY_6tCyWcHn-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="422.5" as="sourcePoint" />
+            <mxPoint x="815" y="527.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
