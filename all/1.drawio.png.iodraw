@@ -1228,60 +1228,60 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="trfJUo5XzzKPfqBuwyKG-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;基础设施层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Ollama服务&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="150" width="130" height="100" as="geometry" />
+          <mxGeometry x="390" y="230" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Neo4j服务&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="150" width="130" height="100" as="geometry" />
+          <mxGeometry x="550" y="230" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;系统监控&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="150" width="130" height="100" as="geometry" />
+          <mxGeometry x="710" y="230" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Python环境&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="150" width="130" height="90" as="geometry" />
+          <mxGeometry x="870" y="230" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;依赖管理&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="707" y="150" width="123" height="90" as="geometry" />
+          <mxGeometry x="1027" y="230" width="123" height="90" as="geometry" />
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;配置系统&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="150" width="120" height="90" as="geometry" />
+          <mxGeometry x="1180" y="230" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.625;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="trfJUo5XzzKPfqBuwyKG-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="80" as="sourcePoint" />
-            <mxPoint x="480" y="30" as="targetPoint" />
+            <mxPoint x="750" y="160" as="sourcePoint" />
+            <mxPoint x="800" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.783;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="trfJUo5XzzKPfqBuwyKG-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455" y="80" as="sourcePoint" />
-            <mxPoint x="170" y="151" as="targetPoint" />
+            <mxPoint x="775" y="160" as="sourcePoint" />
+            <mxPoint x="490" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.592;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="trfJUo5XzzKPfqBuwyKG-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479" y="80" as="sourcePoint" />
-            <mxPoint x="348" y="157" as="targetPoint" />
+            <mxPoint x="799" y="160" as="sourcePoint" />
+            <mxPoint x="668" y="237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.283;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="trfJUo5XzzKPfqBuwyKG-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="499" y="79" as="sourcePoint" />
-            <mxPoint x="481" y="150" as="targetPoint" />
+            <mxPoint x="819" y="159" as="sourcePoint" />
+            <mxPoint x="801" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.208;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="trfJUo5XzzKPfqBuwyKG-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="78" as="sourcePoint" />
-            <mxPoint x="615" y="150" as="targetPoint" />
+            <mxPoint x="850" y="158" as="sourcePoint" />
+            <mxPoint x="935" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="trfJUo5XzzKPfqBuwyKG-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="trfJUo5XzzKPfqBuwyKG-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="67" as="sourcePoint" />
-            <mxPoint x="752" y="150" as="targetPoint" />
+            <mxPoint x="870" y="147" as="sourcePoint" />
+            <mxPoint x="1072" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
