@@ -1311,7 +1311,7 @@
           <mxGeometry x="574" y="10" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-37" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="217.5" y="212.5" width="115" height="40" as="geometry" />
+          <mxGeometry x="207.5" y="195" width="135" height="95" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-38" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="212.5" width="115" height="40" as="geometry" />
@@ -1356,7 +1356,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-47" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;前端交互模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="170" width="50" height="110" as="geometry" />
+          <mxGeometry x="250" y="180" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-52" value="智能问答模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="160" width="50" height="120" as="geometry" />
