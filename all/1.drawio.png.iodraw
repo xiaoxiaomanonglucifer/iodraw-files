@@ -845,7 +845,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EzG4mbX1rb7_0VSP4FAi" name="第 8 页">
-    <mxGraphModel dx="952" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1960" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -896,7 +896,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;模型可用&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;BAAl/bge-m3&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265" y="360" width="130" height="120" as="geometry" />
+          <mxGeometry x="250" y="385" width="145" height="130" as="geometry" />
         </mxCell>
         <mxCell id="KS_MyL6N2_BQx83mYnvK-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;关键词规则扩展&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="380" width="120" height="80" as="geometry" />
