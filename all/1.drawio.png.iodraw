@@ -1385,9 +1385,6 @@
         <mxCell id="dRrHfW4joHGg4nUf7UR7-67" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="400.5" y="372.5" width="117" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-70" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="694" y="380" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-72" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="760" y="380" width="110" height="40" as="geometry" />
         </mxCell>
@@ -1420,9 +1417,6 @@
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-85" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;答案生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="434" y="352.5" width="50" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-89" value="结果融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="724" y="360" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-91" value="三元组融合&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%BB%93%E6%9E%9C%E8%9E%8D%E5%90%88%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22614%22%20y%3D%22330%22%20width%3D%2250%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="340" width="50" height="120" as="geometry" />
@@ -1493,10 +1487,10 @@
             <mxPoint x="660" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="dRrHfW4joHGg4nUf7UR7-70" edge="1">
+        <mxCell id="dRrHfW4joHGg4nUf7UR7-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660.5" y="290" as="sourcePoint" />
-            <mxPoint x="720" y="370" as="targetPoint" />
+            <mxPoint x="739" y="344.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="dRrHfW4joHGg4nUf7UR7-91" edge="1">
@@ -1550,7 +1544,7 @@
         <mxCell id="dfaJqlBF5C3R45xz03Ee-7" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="620" y="373.75" width="117" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dfaJqlBF5C3R45xz03Ee-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;向量检索&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dfaJqlBF5C3R45xz03Ee-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;图谱检索&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="653.5" y="353.75" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
