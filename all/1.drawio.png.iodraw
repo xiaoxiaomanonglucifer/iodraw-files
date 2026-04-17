@@ -252,7 +252,7 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-10" target="I4Wcuq6GH4mCVsWFf0pI-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-10" value="情感分析" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;情感分析&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-15" edge="1">
@@ -298,22 +298,10 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-31" value="相关性判断" style="rhombus;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="540" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-33" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="530" as="sourcePoint" />
-            <mxPoint x="470" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="530" as="sourcePoint" />
             <mxPoint x="520" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-37" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="530" as="sourcePoint" />
-            <mxPoint x="710" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="I4Wcuq6GH4mCVsWFf0pI-31" edge="1">
