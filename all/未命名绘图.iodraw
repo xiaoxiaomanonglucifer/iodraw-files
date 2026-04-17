@@ -451,6 +451,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ufgYxyPusG64Fpy6120c-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TfKt9L0quAjQdgfrGbJu-5">
+          <mxGeometry x="-0.3952" y="4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-2" target="TfKt9L0quAjQdgfrGbJu-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -472,19 +477,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;执行向量检索&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="-915" width="110" height="70" as="geometry" />
+          <mxGeometry x="45" y="-880" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-11" target="TfKt9L0quAjQdgfrGbJu-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-11" value="&lt;div&gt;过滤低相似度结果&lt;/div&gt;&lt;div&gt;阈值：0.6&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="15" y="-835" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="-780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TfKt9L0quAjQdgfrGbJu-13" target="TfKt9L0quAjQdgfrGbJu-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-13" value="提取前3个相关文档" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-770" width="120" height="60" as="geometry" />
+          <mxGeometry x="15" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TfKt9L0quAjQdgfrGbJu-15" target="TfKt9L0quAjQdgfrGbJu-55" edge="1">
           <mxGeometry relative="1" as="geometry">
