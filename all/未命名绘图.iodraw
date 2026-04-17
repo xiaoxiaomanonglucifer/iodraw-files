@@ -567,8 +567,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TfKt9L0quAjQdgfrGbJu-40" value="图谱向量数据库是否存在" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="-975" width="80" height="80" as="geometry" />
+        <mxCell id="TfKt9L0quAjQdgfrGbJu-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;图谱向量数据库是否存在&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="-1020" width="160" height="125" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TfKt9L0quAjQdgfrGbJu-42" target="TfKt9L0quAjQdgfrGbJu-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -580,7 +580,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-45" value="执行图谱向量检索" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="-965" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="-987.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TfKt9L0quAjQdgfrGbJu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TfKt9L0quAjQdgfrGbJu-48" target="TfKt9L0quAjQdgfrGbJu-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
