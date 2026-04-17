@@ -277,7 +277,7 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;相关性判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="200" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-20" value="语义拓展" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;语义拓展&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-22" value="向量检索" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -377,6 +377,12 @@
         <mxCell id="uk7yg9jrrFY_6tCyWcHn-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;不相关&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk7yg9jrrFY_6tCyWcHn-6">
           <mxGeometry x="-0.2091" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk7yg9jrrFY_6tCyWcHn-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="300" as="sourcePoint" />
+            <mxPoint x="710" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
