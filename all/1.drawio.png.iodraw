@@ -246,8 +246,8 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;返回危机干预回答&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="500" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-7" value="返回不相关回答" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="207.5" y="520" width="85" height="40" as="geometry" />
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;返回不相关回答&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="480" width="112.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-10" target="I4Wcuq6GH4mCVsWFf0pI-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -391,6 +391,9 @@
             <mxPoint x="680" y="690" as="sourcePoint" />
             <mxPoint x="720" y="640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uk7yg9jrrFY_6tCyWcHn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.618;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-15" target="I4Wcuq6GH4mCVsWFf0pI-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
