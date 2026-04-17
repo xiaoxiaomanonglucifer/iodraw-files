@@ -1674,39 +1674,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPCcUY8xQJmsh3LLwYXo-1" target="GPCcUY8xQJmsh3LLwYXo-2">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-1" target="GPCcUY8xQJmsh3LLwYXo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-1" value="选择测试类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-1" value="选择测试类型" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPCcUY8xQJmsh3LLwYXo-2" target="GPCcUY8xQJmsh3LLwYXo-4">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-2" target="GPCcUY8xQJmsh3LLwYXo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-2" value="加载题目并计时" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-2" value="加载题目并计时" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPCcUY8xQJmsh3LLwYXo-4" target="GPCcUY8xQJmsh3LLwYXo-6">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-4" target="GPCcUY8xQJmsh3LLwYXo-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-4" value="作答" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-4" value="作答" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPCcUY8xQJmsh3LLwYXo-6" target="GPCcUY8xQJmsh3LLwYXo-8">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-6" target="GPCcUY8xQJmsh3LLwYXo-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-6" value="计算得分" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-6" value="计算得分" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPCcUY8xQJmsh3LLwYXo-8">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-8" value="判断类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-8" value="判断类型" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GPCcUY8xQJmsh3LLwYXo-12" value="显示结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GPCcUY8xQJmsh3LLwYXo-12" value="显示结果" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
