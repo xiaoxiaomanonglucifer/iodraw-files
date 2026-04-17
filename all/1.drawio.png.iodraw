@@ -1674,36 +1674,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;选择测试类型&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="5" width="130" height="70" as="geometry" />
+          <mxGeometry x="140" y="40" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-2" target="GPCcUY8xQJmsh3LLwYXo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;加载题目并计时&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-4" target="GPCcUY8xQJmsh3LLwYXo-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;作答&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-6" target="GPCcUY8xQJmsh3LLwYXo-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;计算得分&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GPCcUY8xQJmsh3LLwYXo-8" edge="1" target="GPCcUY8xQJmsh3LLwYXo-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="130" as="targetPoint" />
+            <mxPoint x="300" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;判断类型&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GPCcUY8xQJmsh3LLwYXo-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;显示结果&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="145" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
