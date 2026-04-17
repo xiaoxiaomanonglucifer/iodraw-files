@@ -222,7 +222,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7-KinfWhFtLfBPxMDAZK" name="第 3 页">
-    <mxGraphModel dx="1388" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,6 +289,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uk7yg9jrrFY_6tCyWcHn-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4Wcuq6GH4mCVsWFf0pI-18">
+          <mxGeometry x="-0.1114" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-15" value="相关性判断" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="235" width="80" height="70" as="geometry" />
         </mxCell>
@@ -296,7 +301,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-20" value="语义拓展" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-22" value="向量检索" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="385" width="90" height="40" as="geometry" />
