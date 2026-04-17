@@ -277,9 +277,6 @@
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;相关性判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="200" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-20" target="I4Wcuq6GH4mCVsWFf0pI-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-20" value="语义拓展" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -301,12 +298,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="295" as="sourcePoint" />
             <mxPoint x="700" y="385" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="295" as="sourcePoint" />
-            <mxPoint x="480.0300000000002" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-31" value="相关性判断" style="rhombus;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
