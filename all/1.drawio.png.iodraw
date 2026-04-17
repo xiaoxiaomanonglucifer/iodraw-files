@@ -835,11 +835,11 @@
         <mxCell id="Qfmt9a6CQXnvg2BC2Osu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qfmt9a6CQXnvg2BC2Osu-19" target="Qfmt9a6CQXnvg2BC2Osu-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-19" value="top-k选择" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-19" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;top-k选择&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="660" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-21" value="返回关键词列表" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="780" width="120" height="60" as="geometry" />
+        <mxCell id="Qfmt9a6CQXnvg2BC2Osu-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;返回关键词列表&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="790" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
