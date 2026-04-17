@@ -983,14 +983,14 @@
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-10" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&amp;nbsp;应用服务层&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="314" y="270" width="146" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-11" value="&amp;nbsp;基础设施层" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="270" width="120" height="80" as="geometry" />
+        <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;基础设施层&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="295" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据存储层&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" y="300" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;AI引擎层&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="290" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TK_pgBGnBAFTN0ub9ZQQ-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.783;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="TK_pgBGnBAFTN0ub9ZQQ-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
