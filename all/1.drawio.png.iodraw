@@ -1388,9 +1388,6 @@
         <mxCell id="dRrHfW4joHGg4nUf7UR7-70" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="694" y="380" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-71" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="620" y="380" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-72" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="760" y="380" width="110" height="40" as="geometry" />
         </mxCell>
@@ -1423,9 +1420,6 @@
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-85" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;答案生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="434" y="352.5" width="50" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="dRrHfW4joHGg4nUf7UR7-88" value="图谱检索&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%90%91%E9%87%8F%E6%A3%80%E7%B4%A2%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22470%22%20y%3D%22330%22%20width%3D%2250%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="650" y="350" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dRrHfW4joHGg4nUf7UR7-89" value="结果融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="724" y="360" width="50" height="100" as="geometry" />
@@ -1552,6 +1546,12 @@
         </mxCell>
         <mxCell id="dfaJqlBF5C3R45xz03Ee-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;向量检索&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="584.5" y="352.5" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dfaJqlBF5C3R45xz03Ee-7" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="561" y="382.5" width="117" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dfaJqlBF5C3R45xz03Ee-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;向量检索&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="594.5" y="362.5" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
