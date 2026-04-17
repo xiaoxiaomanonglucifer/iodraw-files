@@ -294,8 +294,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-15" value="相关性判断" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="235" width="80" height="70" as="geometry" />
+        <mxCell id="I4Wcuq6GH4mCVsWFf0pI-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;相关性判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="210" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="I4Wcuq6GH4mCVsWFf0pI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I4Wcuq6GH4mCVsWFf0pI-20" target="I4Wcuq6GH4mCVsWFf0pI-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
