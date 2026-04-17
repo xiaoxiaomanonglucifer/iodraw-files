@@ -1553,6 +1553,12 @@
         <mxCell id="dfaJqlBF5C3R45xz03Ee-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;质量生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="513.5" y="350" width="50" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="dfaJqlBF5C3R45xz03Ee-5" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="117" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dfaJqlBF5C3R45xz03Ee-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;质量生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523.5" y="360" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
