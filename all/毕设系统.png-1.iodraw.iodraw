@@ -1776,6 +1776,9 @@
         <mxCell id="XSGFEjFexPyO5WWOytVj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSGFEjFexPyO5WWOytVj-1" target="XSGFEjFexPyO5WWOytVj-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XSGFEjFexPyO5WWOytVj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSGFEjFexPyO5WWOytVj-1" target="XSGFEjFexPyO5WWOytVj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XSGFEjFexPyO5WWOytVj-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;学生用户&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(微信小程序)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="30" width="150" height="90" as="geometry" />
         </mxCell>
