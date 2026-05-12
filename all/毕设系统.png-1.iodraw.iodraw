@@ -1805,7 +1805,7 @@
         <mxCell id="XSGFEjFexPyO5WWOytVj-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;心理驿站&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="245" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XSGFEjFexPyO5WWOytVj-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;学生用户&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(微信小程序)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSGFEjFexPyO5WWOytVj-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;危机干预&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="390" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XSGFEjFexPyO5WWOytVj-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;学生用户&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(微信小程序)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1814,7 +1814,7 @@
         <mxCell id="XSGFEjFexPyO5WWOytVj-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;学生用户&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(微信小程序)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="350" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XSGFEjFexPyO5WWOytVj-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;学生用户&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(微信小程序)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSGFEjFexPyO5WWOytVj-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;会话历史管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="540" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XSGFEjFexPyO5WWOytVj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XSGFEjFexPyO5WWOytVj-1" target="XSGFEjFexPyO5WWOytVj-3">
